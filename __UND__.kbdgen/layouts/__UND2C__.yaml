@@ -4,6 +4,13 @@ displayNames:
   sd: پاڪ بورڏ
   ps: پاک بورډ
   ks: پاک بورڈ
+  brh: پاک بورڈ
+  bal: پاک بورڈ
+  trw: پاک بورڈ
+  kls: پاک بورڈ
+  khw: پاک بورڈ
+  ta: ڣاك بٗورڊ
+  ml: پاك بٗورڊ
   fa: پاک‌بورد
   ku: پاک‌بۆرد
   tr: پاكبورد
@@ -12,6 +19,7 @@ displayNames:
   ar: باكبورد
   ha: ڤَاک‌بُوطُ
   sw: پَاكِ بٗوڈِ
+  ms: ڤاكبورد
   en: Pakboard
 
 android:
