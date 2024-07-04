@@ -1,6 +1,12 @@
 displayNames:
-  '__UND2C__': __UNDEFINED__
-  en: __UNDEFINED__
+  pa: پاک بورڈ
+  ur: پاک بورڈ
+  sd: پاڪ بورڏ
+  ps: پاک بورډ
+  ks: پاک بورڈ
+  fa: پاک‌بورد
+  sw: پَاكِ بٗوڈِ
+  en: Pakboard
 
 android:
   config:
