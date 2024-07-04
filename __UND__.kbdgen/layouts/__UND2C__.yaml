@@ -752,8 +752,8 @@ transforms:
     U: Ũ
 
 keyNames:
-  space: gaska
-  return: "linnjá\u00ADmolsun" # your word for "return", or use ⏎ or the string "symbol", for some or all variants
+  space: خالی تھاں
+  return: ⏎ # your word for "return", or use ⏎ or the string "symbol", for some or all variants
 #  return-alts:
 #    search: your-word-for-search  # when pressing the return key triggers a search
 #    go: your-word-for-go-or-open  # when pressing the return key goes to or opens a URL
